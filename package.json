@@ -32,7 +32,7 @@
   "homepage": "https://github.com/Macil/flow-copy-source#readme",
   "dependencies": {
     "chokidar": "^3.0.0",
-    "fs-extra": "^8.1.0",
+    "fs-extra": "^9.0.0",
     "glob": "^7.0.0",
     "kefir": "^3.7.3",
     "yargs": "^15.0.1"
